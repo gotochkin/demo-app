@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 **/*.pyc
+=======
+*.pyc
+.DS_Store
+>>>>>>> 3d0eb58486c3e686e2f5144e347b576ff0447b68
 **/.DS_Store
