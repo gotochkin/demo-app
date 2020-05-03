@@ -7,7 +7,7 @@ drop user appdb cascade;
 CREATE TABLESPACE APPDB;
 
 -- creating user
-CREATE USER appdb IDENTIFIED BY UnfixableRelieve01#
+CREATE USER appdb IDENTIFIED BY welcome1
 	DEFAULT TABLESPACE APPDB
 	QUOTA UNLIMITED ON APPDB;
 
